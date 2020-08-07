@@ -1,6 +1,8 @@
 #!/usr/bin/python2
 # coding=utf-8
 
+# Terserah klien Mau Recode Atau Ga Jink Owkaow.
+
 import os,sys,time,datetime,json,urllib,re,hashlib,cookielib
 import random
 
